@@ -1,0 +1,2 @@
+# CustomizeScreenshotSize
+自定义要获取相机画面的截图大小
